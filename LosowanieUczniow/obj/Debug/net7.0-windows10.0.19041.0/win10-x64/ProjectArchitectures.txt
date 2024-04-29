@@ -1,0 +1,1 @@
+C:\dev\LosowanieUczniow\LosowanieUczniow\LosowanieUczniow.csproj;x64
